@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1641894252 source:c:\users\barba\onedrive - ipleiria\desktop\projeto programação\projetoprogramação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<wchar.h>
+
+1640748909 source:c:\users\markm\onedrive\desktop\escola\projetoprogramação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<wchar.h>
+
+1640710766 source:c:\users\barba\onedrive - ipleiria\desktop\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+
+1641307785 source:d:\escola\projetoprogramação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<wchar.h>
+
+1641918539 source:c:\users\markm\desktop\escola\programacao\codeblocks projects\projetoprogramação\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<locale.h>
+	<wchar.h>
+
